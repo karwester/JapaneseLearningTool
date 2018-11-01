@@ -1,0 +1,101 @@
+word,kana,translation,sentence1,sen1kana,sen1trans,sentence2,sen2kana,sen2trans
+氏名,しめい,full name,ここに住所と氏名を書いてください。,ここ に じゅうしょ と しめい を かいて ください。,Please write your full name and address here.,このリストには、お客様の住所、氏名、電話番号が書いてある。,この リスト に は、おきゃくさま の じゅうしょ、しめい、でんわ ばんごう が かいて ある。,"This list includes customers' addresses, full names and telephone numbers."
+今夜,こんや,"tonight, this evening",今夜は月がとてもきれいです。,こんや は つき が とても きれい です。,The moon is very beautiful tonight.,今夜は星がよく見えます。,こんや は ほし が よく みえます。,You can see the stars clearly tonight.
+夜中,よなか,midnight,夜中に電話がありました。,よなか に でんわ が ありました。,I got a phone call in the middle of the night.,昨日は夜中まで起きていました。,きのう は よなか まで おきて いました。,I stayed up until midnight yesterday.
+来週,らいしゅう,next week,続きは来週やりましょう。,つづき は らいしゅう やりましょう。,We'll continue this next week.,私は来週、すごく忙しいです。,わたし は らいしゅう、すごく いそがしい です。,I'll be very busy next week.
+誰か,だれか,someone,誰かに聞いてみてください。,だれ か に きいて みて ください。,Please ask someone.,すみません、誰か来てください。,すみません、だれ か きて ください。,"Excuse me, someone, please come."
+何,なん,"what (used with t, d, n consonants and counters)",質問は何ですか。,しつもん は なん です か。,What's your question?,あれは何ですか。,あれ は なん です か。,What's that?
+今朝,けさ,this morning,今朝テレビでそのニュースを知りました。,けさ テレビ で その ニュース を しりました。,I heard that news on TV this morning.,今朝は早く家を出ました。,けさ は はやく いえ を でました。,I left the house early this morning.
+寿司,すし,sushi,彼女は寿司を初めて食べました。,かのじょ は すし を はじめて たべました。,She ate sushi for the first time.,昼食に寿司を食べました。,ちゅうしょく に すし を たべました。,I ate sushi for lunch.
+履く,はく,"put on (shoes), wear (pants, skirt)",彼女はブーツを履いています。,かのじょ は ブーツ を はいて います。,She's wearing boots.,彼女は茶色の靴を履いています。,かのじょ は ちゃいろ の くつ を はいて います。,She's wearing brown shoes.
+おじさん,,uncle,昨日おじさんに会いました。,きのう おじさん に あいました。,I met my uncle yesterday.,おじさんがクリスマスプレゼントをくれました。,おじさん が クリスマス プレゼント を くれました。,My uncle gave me a Christmas present.
+おばさん,,aunt,おばさん一家が遊びに来ました。,おばさん いっか が あそび に きました。,My aunt and her family came to visit me.,私のおばさんはお祖母ちゃんと住んでいます。,わたし の おばさん は おばあちゃん と すんで います。,My aunt lives with my grandmother.
+お祖母さん,おばあさん,"grandmother (colloquial), elderly woman",彼女はお祖母さんと住んでいる。,かのじょ は おばあさん と すんで いる。,She lives with her grandma.,あのお祖母さんは今、80歳です。,あの おばあさん は いま、80 さい です。,That elderly woman is 80 years old now.
+いとこ,,cousin,いとこと私は同じ年です。,いとこ と わたし は おなじ とし です。,My cousin and I are the same age.,来週、いとこがうちに泊まりに来ます。,らいしゅう、いとこ が うち に とまり に きます。,"Next week, my cousin will come to stay over."
+辞書,じしょ,dictionary (category),彼女は辞書をよく使います。,かのじょ は じしょ を よく つかいます。,She often uses a dictionary.,この単語の意味を辞書で調べましょう。,この たんご の いみ を じしょ で しらべましょう。,Let's look up the meaning of this word in the dictionary.
+朝ご飯,あさごはん,breakfast (colloquial),7時に朝ご飯を食べました。,7 じ に あさ ごはん を たべました。,I ate breakfast at seven o'clock.,今、朝ご飯を作っています。,いま、あさ ごはん を つくって います。,I'm making breakfast now.
+白,しろ,white color,白は雪の色です。,しろ は ゆき の いろ です。,White is the color of snow.,赤ワインと白ワイン、どちらが好きですか。,あか ワイン と しろ ワイン、どちら が すき です か。,"Which do you prefer, red wine or white wine?"
+どっち,,which (casual),どっちの色が好きですか。,どっち の いろ が すき です か。,Which color do you like?,お寿司とラーメン、どっちがいい？,おすし と ラーメン、どっち が いい？,"Which would you like, sushi or ramen?"
+そっち,,there (casual),そっちが私の部屋です。,そっち が わたし の へや です。,That's my room over there.,辞書はそっちのかばんに入っています。,じしょ は そっち の かばん に はいって います。,The dictionary is in the bag there.
+明日,あした,tomorrow (colloquial),では、また明日。,では、また あした。,See you tomorrow.,明日は理科のテストです。,あした は りか の テスト です。,I have a science test tomorrow.
+明後日,あさって,day after tomorrow (colloquial),明後日は休日です。,あさって は きゅうじつ です。,The day after tomorrow's a holiday.,明後日は友達と海に行きます。,あさって は ともだち と うみ に いきます。,I'll go to the beach with my friends the day after tomorrow.
+一昨日,おととい,the day before yesterday (colloquial),一昨日彼から電話がありました。,おととい かれ から でんわ が ありました。,I got a phone call from him the day before yesterday.,一昨日から風邪で仕事を休んでいます。,おととい から かぜ で しごと を やすんで います。,I've been absent from work since the day before yesterday because of a cold.
+庭,にわ,"garden, yard",庭に白いネコがいます。,にわ に しろい ネコ が います。,There's a white cat in the garden.,庭には2羽にわとりがいます。,にわ に は 2 わ にわとり が います。,There are two chickens in the garden. (Japanese word play)
+左側,ひだりがわ,left side,画面の左側を見てください。,がめん の ひだりがわ を みて ください。,Please look at the left side of the screen.,日本では車は道の左側を走ります。,にほん で は くるま は みち の ひだりがわ を はしります。,In Japan cars run on the left side of the road.
+右側,みぎがわ,right side,彼女はいつも私の右側を歩きます。,かのじょ は いつも わたし の みぎがわ を あるきます。,She always walks on my right.,日本では人は道の右側を歩きます。,にほん で は ひと は みち の みぎ がわ を あるきます。,In Japan people walk on the right side of the road.
+指,ゆび,"finger, toe",彼は指が太い。,かれ は ゆび が ふとい。,His fingers are big.,彼女は指が細いですね。,かのじょ は ゆび が ほそい です ね。,Her fingers are thin.
+眼鏡,めがね,glasses,彼は眼鏡をかけています。,かれ は めがね を かけて います。,He's wearing glasses.,私の眼鏡を見ませんでしたか。,わたし の めがね を みません でした か。,Have you seen my glasses?
+鞄,かばん,"bag, handbag",その黒い鞄は僕のです。,その くろい かばん は ぼく の です。,The black briefcase is mine.,これはあなたの鞄ですか。,これ は あなた の かばん です か。,Is this your bag?
+あっち,,"other side, over there (casual)",郵便局はあっちです。,ゆうびんきょく は あっち です。,The post office is that way.,あっちの方が人が少ないですよ。,あっち の ほう が ひと が すくない です よ。,There are fewer people over there.
+大人しい,おとなしい,"gentle, quiet",私の彼女はとても大人しいです。,わたし の かのじょ は とても おとなしい です。,My girlfriend's very quiet.,うちの娘は子供の時は大人しかった。,うち の むすめ は こども の とき は おとなしかった。,My daughter was quiet when she was a child.
+下手,へた,"bad at, unskilled",私は歌が下手だ。,わたし は うた が へた だ。,I'm a terrible singer.,私は字がすごく下手だ。,わたし は じ が すごく へた だ。,My handwriting is very bad.
+厳しい,きびしい,"strict, severe",私の上司はとても厳しい。,わたし の じょうし は とても きびしい。,My boss is very strict.,今年の夏は暑さが厳しい。,ことし の なつ は あつさ が きびしい。,The heat this summer is overbearing.
+一人で,ひとりで,"by oneself, alone",今日は一人で映画を見ます。,きょう は ひとり で えいが を みます。,I'm going to see a movie alone today.,私は一人でいるのが好きです。,わたし は ひとり で いる の が すき です。,I like to be alone.
+答え,こたえ,"answer, solution",彼はその問題の答えが分からない。,かれ は その もんだい の こたえ が わからない。,He doesn't know the answer to the problem.,答えが違います。,こたえ が ちがいます。,The answer is wrong.
+この頃,このごろ,"these days, recently",この頃、よく肩が凝る。,このごろ、よく かた が こる。,These days I often get stiff shoulders.,彼女、この頃きれいになりましたよね。,かのじょ、このごろ きれい に なりました よ ね。,She's become beautiful recently.
+残念,ざんねん,"regretful, disappointing",その試合は残念な結果になった。,その しあい は ざんねんな けっか に なった。,The result of the game was disappointing.,彼に会えなくて残念です。,かれ に あえなくて ざんねん です。,It's too bad that I didn't get to see him.
+仕舞う,しまう,"put away, put in",彼女は大切な書類を机に仕舞った。,かのじょ は たいせつな しょるい を つくえ に しまった。,She put the important documents in her desk.,財布をポケットに仕舞った。,さいふ を ポケット に しまった。,I put my wallet in my pocket.
+心配,しんぱい,"anxiety, worry",明日のプレゼンテーションが心配だ。,あす の プレゼンテーション が しんぱい だ。,I'm worried about tomorrow's presentation.,心配してくれてありがとう。,しんぱい して くれて ありがとう。,Thank you for worrying about me.
+外,そと,"outside, open air",外は暑いよ。,そと は あつい よ。,It's hot outside.,外は真っ暗です。,そと は まっくら です。,It's pitch-dark outside.
+大切,たいせつ,"important, valuable",これは母が大切にしていた指輪です。,これ は はは が たいせつ に して いた ゆびわ です。,This is a ring that meant a lot to my mother.,この学校では一人一人の生徒を大切にしています。,この がっこう で は ひとり ひとり の せいと を たいせつ に して います。,Each individual student is valued in this school.
+ちょうど,,"just, exactly",値段はちょうど3万円です。,ねだん は ちょうど 3 まん えん です。,"The price is exactly 30,000 yen.",時計を見たらちょうど3時だった。,とけい を みたら ちょうど 3 じ だった。,It was exactly three when I looked at the clock.
+助ける,たすける,"help, save",彼女は病気の犬を助けた。,かのじょ は びょうき の いぬ を たすけた。,She saved a sick dog.,姉はいつも私を助けてくれる。,あね は いつも わたし を たすけて くれる。,My older sister always helps me.
+勤める,つとめる,"serve, hold a job",私は銀行に勤めています。,わたし は ぎんこう に つとめて います。,I work at a bank.,彼は小さな会社に勤めています。,かれ は ちいさな かいしゃ に つとめて います。,He's working for a small business firm.
+連れていく,つれていく,"take along, bring along (a person)",私も連れていってください。,わたし も つれて いって ください。,Please take me along.,昨日、息子を病院に連れていった。,きのう、むすこ を びょういん に つれて いった。,"Yesterday, I took my son to the hospital."
+丈夫,じょうぶ,"healthy, sturdy",祖母は体が丈夫だ。,そぼ は からだ が じょうぶ だ。,My grandmother is physically strong.,私の歯は丈夫です。,わたし の は は じょうぶ です。,My teeth are strong.
+賑やか,にぎやか,"lively, exciting",浅草は賑やかな街です。,あさくさ は にぎやかな まち です。,Asakusa is a lively district.,ここはいつも賑やかです。,ここ は いつも にぎやか です。,It's always lively here.
+眠い,ねむい,sleepy,今日はとても眠いです。,きょう は とても ねむい です。,I'm very sleepy today.,今日は午後、すごく眠かった。,きょう は ごご、すごく ねむかった。,Today I was very sleepy in the afternoon.
+山,やま,mountain,山の空気はきれいだ。,やま の くうき は きれい だ。,The mountain air is clean.,今日は山がはっきり見える。,きょう は やま が はっきり みえる。,You can see the mountains clearly today.
+橋,はし,bridge,あの橋は日本で一番長い。,あの はし は にほん で いちばん ながい。,That bridge is the longest in Japan.,私たちは歩いて橋を渡った。,わたし たち は あるいて はし を わたった。,We walked over the bridge.
+止まる,とまる,"come to a stop, cease",今朝、事故で電車が止まりました。,けさ、じこ で でんしゃ が とまりました。,The train stopped this morning due to an accident.,目の前にタクシーが止まった。,め の まえ に タクシー が とまった。,A taxi stopped right in front of me.
+降る,ふる,"fall, come down (rain, snow, etc.)",明日は雨が降るでしょう。,あす は あめ が ふる でしょう。,It will rain tomorrow.,雨が降っています。,あめ が ふって います。,It's raining.
+本当,ほんとう,"reality, genuine",その話は本当ですか。,その はなし は ほんとう です か。,Is the story real?,本当は私は彼女が好きです。,ほんとう は わたし は かのじょ が すき です。,"Actually, I like her."
+町,まち,town,ここは小さな町です。,ここ は ちいさな まち です。,This is a small town.,これがこの町で一番高いビルです。,これ が この まち で いちばん たかい ビル です。,This is the tallest building in this town.
+お菓子,おかし,"sweets, snacks",お母さんと一緒にお菓子を作りました。,おかあさん と いっしょ に おかし を つくりました。,I made sweets with my mother.,みんなにお菓子をあげましょう。,みんな に おかし を あげましょう。,Let's give everyone some sweets.
+緩い,ゆるい,"slack, loose",このズボンは緩いです。,この ズボン は ゆるい です。,These trousers are loose.,この靴は少し緩いです。,この くつ は すこし ゆるい です。,These shoes are little loose.
+良い,よい,good (formal/written form),彼は良い人です。,かれ は よい ひと です 。,He's a good person.,良い家を選ぶのは難しい。,よい いえ を えらぶ の は むずかしい。,It's difficult to choose a good house.
+ようこそ,,welcome (greeting),日本へようこそ。,にっぽん へ ようこそ。,Welcome to Japan.,ようこそ夢の国へ。,ようこそ ゆめ の くに へ。,Welcome to the dream land!
+お土産,おみやげ,souvenir (polite),父はお土産にお菓子を買ってきた。,ちち は おみやげ に おかし を かって きた。,My father bought some sweets as a souvenir.,友達にイギリスのお土産をもらいました。,ともだち に イギリス の おみやげ を もらいました。,I got a souvenir from England from my friend.
+両親,りょうしん,parents,私の両親は大阪に住んでいます。,わたし の りょうしん は おおさか に すんで います。,My parents live in Osaka.,夏に両親と京都に行きました。,なつ に りょうしん と きょうと に いきました。,I went to Kyoto with my parents in the summer.
+ウェーター,,waiter,ウェーターが水を運んできました。,ウェーター が みず を はこんで きました。,The waiter brought some water.,私はウェーターをしています。,わたし は ウェーター を して います。,I'm working as a waiter.
+ウェートレス,,waitress,ウェートレスを呼んだ。,ウェートレス を よんだ。,I called the waitress.,このカフェにはウェートレスが一人しかいない。,この カフェ に は ウェートレス が ひとり しか いない。,There is only one waitress in this cafe.
+絶対に,ぜったいに,"absolutely, definitely",絶対に駄目です。,ぜったい に だめ です。,Absolutely not.,明日は絶対に仕事を休まないでください。,あした は ぜったい に しごと を やすまないで ください。,Please don't be absent from work tomorrow for sure.
+ごちそう,,"feast, treat",テーブルの上にごちそうが並んでいる。,テーブル の うえ に ごちそう が ならんで いる。,There are some delicious treats lined up on the table.,今日は妻がごちそうを作ってくれた。,きょう は つま が ごちそう を つくって くれた。,Today my wife cooked a feast.
+フォーク,,fork,フォークをもらえますか。,フォーク を もらえます か。,May I have a fork?,ケーキを食べるのにフォークが要ります。,ケーキ を たべる の に フォーク が いります。,I need a fork to eat the cake.
+スプーン,,spoon,カレーライスはスプーンで食べます。,カレーライス は スプーン で たべます。,You eat curry and rice with a spoon.,赤ちゃんがスプーンでご飯を食べている。,あかちゃん が スプーン で ごはん を たべて いる。,The baby is eating with a spoon.
+瓶,びん,bottle,瓶ビールを注文した。,びん ビール を ちゅうもん した。,I ordered a bottle of beer.,瓶はリサイクルに出します。,びん は リサイクル に だします。,Bottles should be taken out for recycling.
+付く,つく,"be on, be switched on",部屋の電気が付いています。,へや の でんき が ついて います。,The room light is on.,電気が付いたままですよ。,でんき が ついた まま です よ。,The light is still on.
+醤油,しょうゆ,soy sauce,もう少し醤油を足してください。,もう すこし しょうゆ を たして ください。,Please add a little more soy sauce.,寿司には醤油をつけます。,すし に は しょうゆ を つけます。,We put soy sauce on sushi.
+茶碗,ちゃわん,rice bowl,茶碗にご飯をよそいました。,ちゃわん に ごはん を よそいました 。,I put some rice into the rice bowl.,私は毎晩、茶碗に２杯ご飯を食べます。,わたし は まいばん、ちゃわん に ２ はい ごはん を たべます。,I eat two bowls of rice every night.
+決める,きめる,"decide, agree upon",帰国することに決めました。,きこく する こと に きめました。,I've decided to go back to my country.,私は彼女との結婚を決めた。,わたし は かのじょ と の けっこん を きめた。,I decided to marry her.
+感じる,かんじる,"feel, sense",膝に痛みを感じます。,ひざ に いたみ を かんじます。,I feel a pain in my knee.,彼はその仕事に大きなプレッシャーを感じています。,かれ は その しごと に おおきな プレッシャー を かんじて います。,He feels under a lot of pressure at work.
+生きる,いきる,live (ones life),皆一生懸命生きている。,みな いっしょうけんめい いきて いる。,They're all doing the best they can to live their life.,このカメは30年生きている。,この カメ は 30 ねん いきて いる。,This turtle has lived for 30 years.
+動かす,うごかす,move (something),部屋の家具を動かしました。,へや の かぐ を うごかしました。,I moved the furniture in the room.,少し体を動かしたい。,すこし からだ を うごかしたい。,I want to move my body a little.
+壊れる,こわれる,"break, break down",会社のパソコンが壊れた。,かいしゃ の パソコン が こわれた。,The company computer broke down.,カメラが壊れた。,カメラ が こわれた。,My camera broke.
+復習,ふくしゅう,review,昨日の復習をしましたか。,きのう の ふくしゅう を しました か。,Did you review yesterday's lesson?,まず、先週の復習から始めましょう。,まず、せんしゅう の ふくしゅう から はじめましょう。,"First, let's start with the review of last week."
+眉,まゆ,eyebrow,彼は眉が濃いね。,かれ は まゆ が こい ね。,He has thick eyebrows.,眉を少し細くしました。,まゆ を すこし ほそく しました。,I've made my eyebrows a little thinner.
+客,きゃく,"visitor, customer",その店は若い客が多いです。,その みせ は わかい きゃく が おおい です。,That shop has a lot of young customers.,今日、うちにお客様が来ます。,きょう、うち に おきゃくさま が きます。,Today a visitor is coming to our home.
+机,つくえ,desk,新しい机を買ってもらいました。,あたらしい つくえ を かって もらいました。,They bought me a new desk.,財布は机の下にあった。,さいふ は つくえ の した に あった。,My purse was under the desk.
+風呂,ふろ,bath,父は今お風呂に入っています。,ちち は いま おふろ に はいって います。,My father's taking a bath right now.,お風呂のお湯が一杯です。,おふろ の おゆ が いっぱい です。,The bath is filled with hot water.
+湯,ゆ,hot water,お風呂のお湯が一杯です。,おふろ の おゆ が いっぱい です。,The bath is filled with hot water.,カップラーメンにお湯を入れてください。,カップラーメン に おゆ を いれて ください。,Please pour hot water into the instant ramen.
+ぬるい,,"tepid, lukewarm",風呂がぬるかった。,ふろ が ぬるかった。,The bath was lukewarm.,ぬるいココアは美味しくない。,ぬるい ココア は おいしく ない。,Lukewarm cocoa is not good.
+風邪薬,かぜぐすり,cold medicine,この風邪薬を飲みなさい。,この かぜ ぐすり を のみなさい。,Take this cold medicine.,昨日は風邪薬を飲んですぐ寝ました。,きのう は かぜ ぐすり を のんで すぐ ねました。,Yesterday I went to bed right after I took cold medicine.
+靴下,くつした,socks,この靴下は3足で1000円です。,この くつした は 3 そく で 1000 えん です。,"These socks are 1,000 yen for 3 pairs.",靴下に穴が開いている。,くつした に あな が あいて いる。,There are holes in my socks.
+たばこ,,"tobacco, cigarette",彼はたばこを吸いません。,かれ は たばこ を すいません。,He doesn't smoke.,たばこは体に悪い。,たばこ は からだ に わるい。,Cigarettes are bad for your health.
+アイスコーヒー,,iced coffee,アイスコーヒーをください。,アイス コーヒー を ください。,I'll have an iced coffee please.,アイスコーヒーにミルクをたくさん入れてください。,アイス コーヒー に ミルク を たくさん いれて ください。,Please put a lot of milk in my iced coffee.
+天ぷら,てんぷら,Japanese deep-fried food,私はえびの天ぷらが好きです。,わたし は えび の てんぷら が すき です。,I like shrimp tempura.,夕飯にナスの天ぷらを食べました。,ゆうはん に ナス の てんぷら を たべました。,I ate eggplant tempura for dinner.
+肉,にく,"flesh, meat",昨日の夜は肉をたくさん食べました。,きのう の よる は にく を たくさん たべました。,I ate a lot of meat last night.,肉と魚とどちらが好きですか。,にく と さかな と どちら が すき です か。,"Which do you prefer, meat or fish?"
+昨夜,ゆうべ,"last night, last evening (colloquial)",昨夜、流れ星を見ました。,ゆうべ、ながれぼし を みました。,I saw a shooting star last night.,昨夜は涼しかったので、走りに行きました。,ゆうべ は すずしかった ので、はしり に いきました。,"It was cool out last night, so I went running."
+流行る,はやる,"be in fashion, be popular",去年はスニーカーが流行りました。,きょねん は スニーカー が はやりました。,Sneakers were popular last year.,今、大きなサングラスが流行っている。,いま、おおきな サングラス が はやって いる。,"Now, big sunglasses are in fashion."
+連れてくる,つれてくる,bring (a person),息子が友達を連れてきました。,むすこ が ともだち を つれて きました。,My son brought a friend.,今日、娘が初めて家に彼氏を連れてくる。,きょう、むすめ が はじめて いえ に かれし を つれて くる。,Today my daughter is bringing her boyfriend to our home for the first time.
+方,かた,person (polite form),次の方、どうぞ。,つぎ の かた、どうぞ。,Next please.,質問のある方はどうぞ。,しつもん の ある かた は どうぞ。,"Those who have questions, please feel free to ask."
+零,れい,zero,今ちょうど零時です。,いま ちょうど れい じ です。,It's exactly midnight now.,日本語のテストで零点を取った。,にほんご の テスト で れい てん を とった。,I got a zero on the Japanese test.
+雲,くも,cloud,今日は雲が多い。,きょう は くも が おおい。,It's cloudy today.,あの雲は鳥みたいだ。,あの くも は とり みたい だ。,That cloud looks like a bird.
+空,そら,sky,空の写真を撮るのが好きです。,そら の しゃしん を とる の が すき です。,I like to take photographs of the sky.,東の空が暗いです。,ひがし の そら が くらい です。,The eastern sky is dark.
+人気,にんき,popularity,このバンドはとても人気があるよ。,この バンド は とても にんき が ある よ。,That band is very popular.,あの店は若い人たちに人気です。,あの みせ は わかい ひと たち に にんき です。,That shop is popular among young people.
+兄さん,にいさん,(ones own) older brother (polite),兄さん、おめでとう。,にいさん、おめでとう。,"Congratulations, big brother.",兄さん、友達から電話だよ。,にいさん、ともだち から でんわ だ よ。,"Big brother, you've got a phone call from your friend."
+姉さん,ねえさん,(ones own) older sister (polite),姉さん、ごめんね。,ねえさん、ごめん ね。,I'm sorry sis.,今日は姉さんが朝ごはんを作った。,きょう は ねえさん が あさ ごはん を つくった。,"Today, my older sister made a breakfast."
+平成,へいせい,Heisei era,彼女は平成3年生まれです。,かのじょ は へいせい 3 ねん うまれ です。,She was born in Heisei Year 3 (1991).,平成は1989年1月8日に始まった。,へいせい は 1989 ねん いち がつ ようか に はじまった。,"Heisei started on January 8, 1989."
+毎月,まいつき,every month,私は毎月貯金をしています。,わたし は まいつき ちょきん を して います。,I save money every month.,私は毎月出張があります。,わたし は まいつき しゅっちょう が あります。,I go on a business trip every month.
+半日,はんにち,half a day,今日は半日だけ仕事だ。,きょう は はんにち だけ しごと だ。,I'm working only a half-day today.,パソコンを直すのに半日かかりました。,パソコン を なおす の に はんにち かかりました。,It took me half a day to fix my personal computer.
+半月,はんつき,half a month,半月前に日本に来ました。,はんつき まえ に にほん に きました。,I came to Japan half a month ago.,私のお祖母ちゃんは半月に一度お医者さんに行きます。,わたし の おばあちゃん は はんつき に いち ど おいしゃさん に いきます。,My grandmother goes to a doctor once in half a month.
